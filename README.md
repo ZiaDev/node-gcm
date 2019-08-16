@@ -6,7 +6,7 @@ An interface for "Google Cloud Messaging for Android" on Node.js
 
 Via [npm][1]:
 
-    $ npm install gcm
+    $ npm install gcm-to-fcm
 
 As a submodule of your project
 
